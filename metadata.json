@@ -1,0 +1,39 @@
+ {
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "J0SH"
+            }
+        ],
+        "Id": "taiga_dynamic",
+        "License": "LGPLv3",
+        "Name": "Minecraft Taiga Wallpaper"
+    },
+    "Wallpaper": {
+        "Preview": "preview.png",
+        "Smooth": true,
+        "Type": "timed",
+        "MetaData": [
+            {
+                "Time": 0,
+                "FileName": "night.png"
+            },
+            {
+                "Time": 0.25,
+                "FileName": "sunrise.png"
+            },
+            {
+                "Time": 0.5,
+                "FileName": "noon.png"
+            },
+            {
+                "Time": 0.75,
+                "FileName": "sunset.png"
+            },
+            {
+                "Time": 0.875,
+                "FileName": "night.png"
+            }
+        ]
+    }
+}
