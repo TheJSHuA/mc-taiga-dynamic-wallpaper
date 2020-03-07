@@ -7,7 +7,8 @@ However, if you use them in any public project please credit me in some way.
 # Resource pack & shader pack used
 Screenshots taken in Minecraft 1.14.4
 
-[Raspberry Shaders](https://rutherin.netlify.com/)
-[F8thful Resource Pack](https://www.curseforge.com/minecraft/texture-packs/f8thful)
+Shaders: [Raspberry Shaders](https://rutherin.netlify.com/)
 
-Gimp was used to change color tempatures of sunrise & sunset to be warmer.
+Resource pack: [F8thful Resource Pack](https://www.curseforge.com/minecraft/texture-packs/f8thful)
+
+[GIMP](https://www.gimp.org/) was used to change color tempatures of sunrise & sunset to be warmer.
